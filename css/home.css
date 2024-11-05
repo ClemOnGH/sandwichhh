@@ -39,6 +39,10 @@
     width: 300px;
 }
 
+.sdwch1:hover, .sdwch2:hover {
+    transform: scale(1.1) rotate(-10deg);
+}
+
 .sdwchpreview {
     height: auto;
     width: 400px;
